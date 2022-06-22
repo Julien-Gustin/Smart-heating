@@ -55,4 +55,4 @@ rooms in the building, the set temperatures, the outside temperature and heating
 
 ## Authors
 
-Julien Gustin, Joachim Houyon and Romain Charles
+Julien Gustin, Joachim Houyon and Romain Charles.
