@@ -1,0 +1,5 @@
+Dining Kitchen Room1 Bathroom
+Dining Kitchen 5.84805019e+02
+Dining Room1 5.27935520e-02
+Kitchen Bathroom 0.00877792
+Room1 Bathroom 0.01007886
