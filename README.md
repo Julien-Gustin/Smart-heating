@@ -4,7 +4,7 @@ The goal of this project is to develop a **thermal model** of the building and *
 rooms in the building, the set temperatures, the outside temperature and heating powers. In order to finaly  use **model predictive control** to minimize the temperature difference between the room temperature and the set temperature
 
 <p align="center">
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/house.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/house.png?raw=true" />
   <br>
   <em style="text-align:center">The considered house</em>
 </p>
@@ -41,14 +41,14 @@ rooms in the building, the set temperatures, the outside temperature and heating
 ## Results
 
 <p align="center">
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/chB.png?raw=true" />
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/chHugo.png?raw=true" />
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/chTim.png?raw=true" />
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/cuisine.png?raw=true" />
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/SAM.png?raw=true" />
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/SDB.png?raw=true" />
-  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/SDS.png?raw=true" />
-   <img src="https://github.com/Julien-Gustin/Smart-heating/blob/master/figures/Energy.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/chB.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/chHugo.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/chTim.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/cuisine.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/SAM.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/SDB.png?raw=true" />
+  <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/SDS.png?raw=true" />
+   <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/Energy.png?raw=true" />
   <br>
   <em style="text-align:center">Results from the simulator</em>
 </p>
