@@ -1,7 +1,8 @@
 # Smart heating
 
 The goal of this project is to develop a **thermal model** of the building and **fit** the parameters of this model based on the temperature measurements of the
-rooms in the building, the set temperatures, the outside temperature and heating powers. In order to finaly  use **model predictive control** to minimize the temperature difference between the room temperature and the set temperature
+rooms in the building, the set temperatures, the outside temperature and heating powers. In order to finaly  use **model predictive control** to minimize the temperature difference between the room temperature and the set temperature  
+I dont know anything about heat transfer tho so I relied a lot on Yassine who is an expert of the domain.
 
 <p align="center">
   <img src="https://github.com/Julien-Gustin/Smart-heating/blob/main/figures/house.png?raw=true" />
